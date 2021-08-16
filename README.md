@@ -52,7 +52,7 @@ Potem wczytujemy nowe kwiatki do rozpoznawania. Program musi umożliwiać wielok
 
 Nie można używać żadnych bibliotek ML, wszystko ma być zaimplementowane od zera w pętlach, if-ach, wyjście perceptronu trzeba liczyć za pomocą dzialań arytmetycznych, etc.
 
-## MPP3
+## MPP 3
 
 Dane wejściowe (należy samemu przygotować):
 
